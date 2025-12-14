@@ -1,0 +1,6 @@
+● telegram_schedule_bot.service
+     Loaded: loaded (]8;;file://mrhryhoriy-VMware-Virtual-Platform/etc/systemd/system/telegram_schedule_bot.service/etc/systemd/system/telegram_schedule_bot.service]8;;; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: activating (auto-restart) (Result: exit-code) since Wed 2025-12-03 12:50:21 UTC; 5s ago
+    Process: 16082 ExecStart=/bin/bash -lc cd /home/mrhryhoriy/telegram_schedule_bot && bundle exec ruby bot.rb [0;1;31m(code=exited, status=1/FAILURE)[0m
+   Main PID: 16082 (code=exited, status=1/FAILURE)
+        CPU: 521ms
